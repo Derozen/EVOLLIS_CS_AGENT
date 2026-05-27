@@ -14,7 +14,7 @@ npm run dev
 ```
 ## Add-ons
 
-If I have more time:
+If I had more time:
 
 I would have added a database to better follow the tickets.
 I would have added a rating system to better improve the quality of the agent.
