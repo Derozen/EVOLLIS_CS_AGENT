@@ -1,6 +1,6 @@
 # React + Vite
 
-This is the My react app for te agent. The interface is very smplistic.
+This is the My react app for the agent. The interface is very smplistic.
 - [Link to the Live APP](https://evollis-cs-agent.vercel.app/) 
 
 ## Installation
