@@ -16,6 +16,8 @@ npm run dev
 
 If I had more time:
 
-I would have added a database to better follow the tickets.
-I would have added a rating system to better improve the quality of the agent.
-I would have chosen a better looking frontend for the app.
+Add a database to better follow the tickets.
+
+A rating system to better improve the quality of the agent.
+
+Chose a better looking frontend for the app.
